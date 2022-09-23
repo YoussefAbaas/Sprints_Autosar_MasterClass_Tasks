@@ -1,0 +1,7 @@
+1-configure DSL Protocol id for connection over can and determine protocol priority
+2-Configure Service Table and reference to it in DSL Protocol Configuration
+3-Configure DTC for Voltage Level Fault with Value = 0x777919
+4-Configure Operation Cycle on DEM to be on Power
+5-Configure Debouncing Algorithm for the Event with Failed Threshold = 4
+6-Configure Freeze Frame Class for Voltage Level Fault with configured data elements and DIDS
+7-Configure an event in DEM for Voltage Level with Reference to Configured DTC , Operation Cycle , and Freeze Frame Class
