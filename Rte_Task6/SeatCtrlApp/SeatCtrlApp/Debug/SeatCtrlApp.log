@@ -1,0 +1,20 @@
+﻿  main.c
+  HMI.c
+  SeatManager.c
+  HeightMotor.c
+  HeightSensor.c
+  InclineMotor.c
+  InclineSensor.c
+  IoHwAbs.c
+  SlideMotor.c
+  SlideSensor.c
+  WeightSensor.c
+  Adc.c
+  Com.c
+  Dio.c
+  Os.c
+  Spi.c
+  Rte.c
+  vfb.c
+  Generating Code...
+  SeatCtrlApp.vcxproj -> C:\Users\Yousif\Downloads\Compressed\SeatCtrlApp_Task6_Solution\SeatCtrlApp\Debug\SeatCtrlApp.exe
